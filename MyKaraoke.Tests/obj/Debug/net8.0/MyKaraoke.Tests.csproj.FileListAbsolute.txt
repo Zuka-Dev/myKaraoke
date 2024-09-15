@@ -1,0 +1,11 @@
+/Users/maziifeanyichukwu/Desktop/MyKaraoke/MyKaraoke.Tests/bin/Debug/net8.0/MyKaraoke.Tests.deps.json
+/Users/maziifeanyichukwu/Desktop/MyKaraoke/MyKaraoke.Tests/bin/Debug/net8.0/MyKaraoke.Tests.dll
+/Users/maziifeanyichukwu/Desktop/MyKaraoke/MyKaraoke.Tests/bin/Debug/net8.0/MyKaraoke.Tests.pdb
+/Users/maziifeanyichukwu/Desktop/MyKaraoke/MyKaraoke.Tests/obj/Debug/net8.0/MyKaraoke.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maziifeanyichukwu/Desktop/MyKaraoke/MyKaraoke.Tests/obj/Debug/net8.0/MyKaraoke.Tests.AssemblyInfoInputs.cache
+/Users/maziifeanyichukwu/Desktop/MyKaraoke/MyKaraoke.Tests/obj/Debug/net8.0/MyKaraoke.Tests.AssemblyInfo.cs
+/Users/maziifeanyichukwu/Desktop/MyKaraoke/MyKaraoke.Tests/obj/Debug/net8.0/MyKaraoke.Tests.csproj.CoreCompileInputs.cache
+/Users/maziifeanyichukwu/Desktop/MyKaraoke/MyKaraoke.Tests/obj/Debug/net8.0/MyKaraoke.Tests.dll
+/Users/maziifeanyichukwu/Desktop/MyKaraoke/MyKaraoke.Tests/obj/Debug/net8.0/refint/MyKaraoke.Tests.dll
+/Users/maziifeanyichukwu/Desktop/MyKaraoke/MyKaraoke.Tests/obj/Debug/net8.0/MyKaraoke.Tests.pdb
+/Users/maziifeanyichukwu/Desktop/MyKaraoke/MyKaraoke.Tests/obj/Debug/net8.0/ref/MyKaraoke.Tests.dll

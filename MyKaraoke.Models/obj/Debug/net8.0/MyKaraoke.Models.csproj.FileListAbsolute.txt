@@ -1,0 +1,11 @@
+/Users/maziifeanyichukwu/Desktop/MyKaraoke/MyKaraoke.Models/bin/Debug/net8.0/MyKaraoke.Models.deps.json
+/Users/maziifeanyichukwu/Desktop/MyKaraoke/MyKaraoke.Models/bin/Debug/net8.0/MyKaraoke.Models.dll
+/Users/maziifeanyichukwu/Desktop/MyKaraoke/MyKaraoke.Models/bin/Debug/net8.0/MyKaraoke.Models.pdb
+/Users/maziifeanyichukwu/Desktop/MyKaraoke/MyKaraoke.Models/obj/Debug/net8.0/MyKaraoke.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maziifeanyichukwu/Desktop/MyKaraoke/MyKaraoke.Models/obj/Debug/net8.0/MyKaraoke.Models.AssemblyInfoInputs.cache
+/Users/maziifeanyichukwu/Desktop/MyKaraoke/MyKaraoke.Models/obj/Debug/net8.0/MyKaraoke.Models.AssemblyInfo.cs
+/Users/maziifeanyichukwu/Desktop/MyKaraoke/MyKaraoke.Models/obj/Debug/net8.0/MyKaraoke.Models.csproj.CoreCompileInputs.cache
+/Users/maziifeanyichukwu/Desktop/MyKaraoke/MyKaraoke.Models/obj/Debug/net8.0/MyKaraoke.Models.dll
+/Users/maziifeanyichukwu/Desktop/MyKaraoke/MyKaraoke.Models/obj/Debug/net8.0/refint/MyKaraoke.Models.dll
+/Users/maziifeanyichukwu/Desktop/MyKaraoke/MyKaraoke.Models/obj/Debug/net8.0/MyKaraoke.Models.pdb
+/Users/maziifeanyichukwu/Desktop/MyKaraoke/MyKaraoke.Models/obj/Debug/net8.0/ref/MyKaraoke.Models.dll

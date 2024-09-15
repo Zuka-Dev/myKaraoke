@@ -1,0 +1,10 @@
+We're developing a mobile app that serves as an online karaoke and DJ platform, allowing friends to listen to music together remotely. Here are the key features:
+
+- User Authentication: Users can create accounts and log in securely.
+- Room Creation: Users can create virtual rooms and become the 'host'.
+- Room Joining: Other users can join rooms using a passcode or shared URL.
+- Music Selection: The host can choose songs from a curated list (sourced from an external API).
+- Synchronized Playback: All users in a room listen to the same song simultaneously.
+- Song Requests: Members can request song changes or recommend new songs to the host.
+- Host Controls: The host can accept or refuse song requests, remove members, and set a maximum room capacity.
+- User Actions: Members can leave rooms voluntarily.
